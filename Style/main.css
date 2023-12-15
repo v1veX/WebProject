@@ -72,7 +72,7 @@ main {
 
 .slogan-line {
     width: fit-content;
-    font-size: 2.2em;
+    font-size: 2.5em;
     color: #fff;
     text-align: center;
 }
@@ -85,28 +85,38 @@ main {
 
 .box {
     width: 25%;
+    padding: 2em;
 }
 
 .box-1 {
     height: 350px;
-    /* background-color: bisque; */
-    background-color: #cab59b;
+    background-color: bisque;
+    /* background-color: #cab59b; */
 }
 
 .box-2 {
     height: 290px;
-    /* background-color: burlywood; */
-    background-color: #b99a70;
+    background-color: burlywood;
+    /* background-color: #b99a70; */
 }
 
 .box-3 {
     height: 320px;
-    /* background-color: moccasin; */
-    background-color: #c4af8c;
+    background-color: moccasin;
+    /* background-color: #c4af8c; */
 }
 
 .box-4 {
     height: 260px;
-    /* background-color: darkkhaki; */
-    background-color: #9e9a5e;
+    background-color: darkkhaki;
+    /* background-color: #9e9a5e; */
+}
+
+.box-headline {
+    font-size: 1.7em;
+    margin-bottom: .8em;
+}
+
+.box-text {
+    font-size: 1.2em;
 }

@@ -41,9 +41,15 @@ nav {
     gap: 25px;
 }
 
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
 .nav-button {
     padding: .3em 0;
     border-bottom: 1px solid transparent;
+    display: block;
     transition: all .3s;
     cursor: pointer;
 }
@@ -116,30 +122,35 @@ main {
     width: 24%;
     padding: 2em;
     border-radius: 15px;
+    
 }
 
 .box-1 {
     /* height: 350px; */
     background-color: bisque;
-    /* background-color: #cab59b; */
+    background-image: url('../Images/Boxes2.png');
+    background-size: auto 100%;
+    transition: all .3s ease-in;
+}
+
+.box-1:hover {
+    background-image: url('../Images/Containers2.png');
+    color: #fff;
 }
 
 .box-2 {
     /* height: 290px; */
     background-color: burlywood;
-    /* background-color: #b99a70; */
 }
 
 .box-3 {
     /* height: 320px; */
     background-color: moccasin;
-    /* background-color: #c4af8c; */
 }
 
 .box-4 {
     /* height: 260px; */
-    background-color: darkkhaki;
-    /* background-color: #9e9a5e; */
+    background-color: #bdb76b;
 }
 
 .box-headline {

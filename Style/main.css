@@ -53,21 +53,22 @@ main {
 .box {
     min-height: 290px;
     width: 24%;
-    padding: 2em;
+    padding: 2em 2em calc(2em + 60px) 2em;
     border-radius: 15px;
+    position: relative;
 }
 
 .box-1 {
     background-color: bisque;
-    background-image: url('../Images/Boxes2.png');
+    /* background-image: url('../Images/Boxes2.png'); */
     background-size: auto 100%;
     transition: all .3s ease-in;
 }
 
-.box-1:hover {
+/* .box-1:hover {
     background-image: url('../Images/Containers2.png');
     color: #fff;
-}
+} */
 
 .box-2 {
     background-color: burlywood;
@@ -81,6 +82,16 @@ main {
     background-color: #bdb76b;
 }
 
+.box-tape {
+    height: 1.5em;
+    width: 40%;
+    background-color: #2525257d;
+    border-radius: 0 0 5px 5px;
+    position: absolute;
+    top: 0;
+    left: 30%;
+}
+
 .box-headline {
     font-size: 1.7em;
     margin-bottom: .8em;
@@ -88,4 +99,14 @@ main {
 
 .box-text {
     font-size: 1.2em;
+}
+
+.img {
+    height: 60px;
+    width: 60px;
+    background-image: url('../Images/znak1.png');
+    background-size: 100%;
+    position: absolute;
+    bottom: 1em;
+    right: 1em;
 }

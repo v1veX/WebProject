@@ -53,16 +53,18 @@ main {
 .box {
     min-height: 290px;
     width: 24%;
-    padding: 2em 2em calc(2em + 60px) 2em;
+    padding: 2em;
+    background-color: #141414;
+    color: #fff;
     border-radius: 15px;
     position: relative;
 }
 
 .box-1 {
-    background-color: bisque;
-    /* background-image: url('../Images/Boxes2.png'); */
+    /* background-color: bisque;
+    background-image: url('../Images/Boxes2.png');
     background-size: auto 100%;
-    transition: all .3s ease-in;
+    transition: all .3s ease-in; */
 }
 
 /* .box-1:hover {
@@ -71,25 +73,15 @@ main {
 } */
 
 .box-2 {
-    background-color: burlywood;
+    /* background-color: burlywood; */
 }
 
 .box-3 {
-    background-color: moccasin;
+    /* background-color: moccasin; */
 }
 
 .box-4 {
-    background-color: #bdb76b;
-}
-
-.box-tape {
-    height: 1.5em;
-    width: 40%;
-    background-color: #2525257d;
-    border-radius: 0 0 5px 5px;
-    position: absolute;
-    top: 0;
-    left: 30%;
+    /* background-color: #bdb76b; */
 }
 
 .box-headline {
@@ -99,14 +91,4 @@ main {
 
 .box-text {
     font-size: 1.2em;
-}
-
-.img {
-    height: 60px;
-    width: 60px;
-    background-image: url('../Images/znak1.png');
-    background-size: 100%;
-    position: absolute;
-    bottom: 1em;
-    right: 1em;
 }

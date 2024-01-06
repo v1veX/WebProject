@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Mariupol';
+    src: url('../Fonts/Mariupol-Regular.ttf');
+}
+
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: #252525;
+}
+
+main {
+    padding-top: 4.5em;
+}
+
+.headline-place {
+    width: 90%;
+    padding: 6em 0;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #fff;
+    font-size: 3em;
+}
+
+.prices-container {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-wrapper {
+    width: 45%;
+}
+
+.price-headline {
+    margin-bottom: 1.2em;
+    font-size: 1.7em;
+    color: #fff;
+}
+
+.price {
+    min-height: 200px;
+    background-color: #141414;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.price-text {
+    font-family: 'Mariupol';
+    font-size: 2.5em;
+    color: #fff;
+    text-align: center;
+}
+
+.contracts-info {
+    width: 100%;
+    padding: 3em 0;
+    margin-top: 5em;
+    background-color: darkkhaki;
+}
+
+.contracts-info-text {
+    width: 90%;
+    margin: 0 auto;
+    font-size: 1.5em;
+    color: #252525;
+}
+
+.contracts-info-email {
+    width: 90%;
+    margin: .8em auto 0 auto;
+    color: #252525;
+    font-size: 2.7em;
+    text-decoration: underline;
+}

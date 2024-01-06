@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Russian Road Sign';
+    src: url('../Fonts/russianroadsign_medium.otf');
+}
+
 * {
     padding: 0;
     margin: 0;
@@ -26,13 +31,14 @@ header {
 }
 
 .logo-place {
-    font-size: 1.5em;
+    font-family: 'Russian Road Sign';
+    font-size: 1.7em;
 }
 
 nav {
     font-size: 1.1em;
     display: flex;
-    gap: 25px;
+    gap: 20px;
 }
 
 a {
@@ -66,6 +72,10 @@ a {
 .contact-button:hover {
     background-color: #fff;
     color: #252525;
+}
+
+.menu-button {
+    display: none;
 }
 
 .header-border {

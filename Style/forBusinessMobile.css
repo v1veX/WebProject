@@ -1,0 +1,86 @@
+@media screen and (max-width: 1000px) and (orientation: portrait) {
+    .why-us-content-desktop {
+        display: none;
+    }
+
+    .why-us-content-mobile {
+        display: block;
+    }
+
+    main {
+        padding: 10vh 0;
+    }
+
+    .headline-place {
+        width: 90%;
+        padding: 6vh 0;
+        margin: 0 auto;
+    }
+
+    h1 {
+        font-size: 3.1vh;
+    }
+
+    .to-prices-button {
+        width: auto;
+        margin-top: 2.5vh;
+        padding: 1vh 4vh;
+        font-size: 2vh;
+        border-width: 3px;
+        text-align: center;
+    }
+
+    .why-us-headline {
+        font-size: 2.5vh;
+    }
+
+    .why-us-content-mobile {
+        margin-top: 2vh;
+        display: flex;
+        flex-direction: column;
+        gap: 2vh;
+    }
+
+    .why-us-card {
+        width: 100%;
+        min-height: 0;
+        height: 12vh;
+        padding: 2vh;
+        font-size: 2.7vh;
+    }
+
+    .contracts-wrapper {
+        padding: 3.5vh 0;
+        margin: 4vh 0;
+    }
+
+    .contracts {
+        font-size: 2.4vh;
+    }
+
+    .they-trust-us-headline, .any-questions-headline {
+        font-size: 3vh;
+    }
+
+    .any-questions-content {
+        font-size: 3.6vh;
+    }
+
+    .they-trust-us-content-desktop {
+        display: none;
+    }
+
+    .they-trust-us-content-mobile {
+        margin-top: 3vh;
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        flex-wrap: wrap;
+        row-gap: 2vh;
+    }
+
+    .they-trust-us-card {
+        width: 48%;
+        height: 10vh;
+    }
+}

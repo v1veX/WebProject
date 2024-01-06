@@ -1,0 +1,63 @@
+@media screen and (max-width: 1000px) and (orientation: portrait) {
+    .desktop-cont {
+        display: none;
+    }
+
+    .mobile-cont {
+        display: block;
+    }
+
+    main {
+        padding: 10vh 0;
+    }
+
+    .headline-place {
+        width: 90%;
+        padding: 6vh 0;
+        margin: 0 auto;
+    }
+
+    h1 {
+        font-size: 3.1vh;
+    }
+
+    .to-prices-button {
+        width: auto;
+        margin-top: 2.5vh;
+        padding: 1vh 4vh;
+        font-size: 2vh;
+        border-width: 3px;
+        text-align: center;
+    }
+
+    .why-us {
+        display: flex;
+        flex-direction: column;
+        gap: 2vh;
+    }
+
+    .why-us-card {
+        width: 100%;
+        min-height: 0;
+        height: 12vh;
+        padding: 2vh;
+        font-size: 2.7vh;
+    }
+
+    .contracts-wrapper {
+        padding: 3.5vh 0;
+        margin: 4vh 0;
+    }
+
+    .contracts {
+        font-size: 2.4vh;
+    }
+
+    .any-questions-headline {
+        font-size: 3vh;
+    }
+
+    .any-questions-content {
+        font-size: 3.8vh;
+    }
+}

@@ -1,0 +1,10 @@
+@media screen and (max-width: 1200px) and (orientation: landscape) {
+    .why-us-content-desktop {
+        flex-wrap: wrap;
+        row-gap: 1em;
+    }
+
+    .why-us-card {
+        width: 49%;
+    }
+}

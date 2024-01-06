@@ -44,25 +44,15 @@ h1 {
     margin: 0 auto;
 }
 
-.why-us-headline {
-    color: #fff;
-    font-size: 2em;
-}
-
-.why-us-content-desktop {
-    margin-top: 2em;
+.why-us-content {
     display: flex;
     justify-content: space-between;
-}
-
-.why-us-content-mobile {
-    display: none;
 }
 
 .why-us-card {
     width: 24%;
     min-height: 200px;
-    padding: 1em;
+    padding: 1.5em;
     background-color: #141414;
     border-radius: 10px;
     font-size: 1.5em;
@@ -84,35 +74,6 @@ h1 {
     text-align: center;
 }
 
-.they-trust-us {
-    width: 90%;
-    margin: 0 auto;
-}
-
-.they-trust-us-headline {
-    color: #fff;
-    font-size: 2em;
-}
-
-.they-trust-us-content-desktop {
-    margin-top: 2em;
-    display: flex;
-    justify-content: space-between;
-}
-
-.they-trust-us-content-mobile {
-    display: none;
-}
-
-.they-trust-us-card {
-    width: 19%;
-    min-height: 100px;
-    padding: 1em;
-    background-color: #141414;
-    border-radius: 10px;
-    color: #fff;
-}
-
 .any-questions {
     width: 90%;
     margin: 3em auto 0 auto;
@@ -128,4 +89,8 @@ h1 {
     color: #fff;
     font-size: 2.7em;
     text-decoration: underline;
+}
+
+.mobile-cont {
+    display: none;
 }

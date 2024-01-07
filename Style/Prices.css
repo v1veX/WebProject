@@ -31,6 +31,10 @@ h1 {
     justify-content: space-between;
 }
 
+.bottom-container {
+    margin-top: 1.6em;
+}
+
 .price-wrapper {
     width: 45%;
 }
@@ -44,10 +48,21 @@ h1 {
 .price {
     min-height: 200px;
     background-color: #141414;
+    background-size: auto 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
     border-radius: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.incity-price {
+    background-image: url('../Images/InCityPrice.svg');
+}
+
+.betweencity-price {
+    background-image: url('../Images/BetweenCityPrice.svg');
 }
 
 .price-text {
@@ -60,7 +75,6 @@ h1 {
 .contracts-info {
     width: 100%;
     padding: 3em 0;
-    margin-top: 5em;
     background-color: darkkhaki;
 }
 
@@ -77,4 +91,11 @@ h1 {
     color: #252525;
     font-size: 2.7em;
     text-decoration: underline;
+}
+
+.comment {
+    width: 90%;
+    margin: 3em auto;
+    font-size: 1.2em;
+    color: #ccc;
 }

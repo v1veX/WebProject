@@ -1,0 +1,58 @@
+@media screen and (max-width: 1000px) and (orientation: portrait) {
+    main {
+        padding-top: 10vh;
+    }
+
+    .headline-place {
+        padding: 6vh 0;
+    }
+
+    h1 {
+        font-size: 3.1vh;
+    }
+
+    .prices-container {
+        flex-wrap: wrap;
+        row-gap: 2vh;
+    }
+
+    .bottom-container {
+        margin-top: 2vh;
+    }
+
+    .price-wrapper {
+        width: 100%;
+    }
+
+    .price-headline {
+        margin-bottom: 1.6vh;
+        font-size: 2.2vh;
+    }
+
+    .price {
+        min-height: 0px;
+        height: 14vh;
+        background-size: auto 120%;
+    }
+
+    .price-text {
+        font-size: 4vh;
+    }
+
+    .contracts-info {
+        padding: 2.5vh 0;
+    }
+
+    .contracts-info-text {
+        font-size: 1.5vh;
+    }
+
+    .contracts-info-email {
+        font-size: 3vh;
+    }
+
+    .comment {
+        margin: 2.5vh auto;
+        font-size: 1.2vh;
+    }
+}

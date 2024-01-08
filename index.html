@@ -17,8 +17,8 @@
                     <a class="nav-button" href="./Pages/forBusiness.html">Бизнесу</a>
                     <a class="nav-button" href="">О компании</a>
                 </nav>
-                <button class="contact-button">Связаться с нами</button>
-                <div class="menu-button">///</div>
+                <button class="contact-button" onclick="openContacts()">Связаться с нами</button>
+                <div class="menu-button" onclick="openMobileMenu()"></div>
             </div>
         </header>
         <main>
@@ -44,5 +44,27 @@
                 </div>
             </div>
         </main>
+        <div class="mobile-menu" id="mob-menu">
+            <div class="mobile-menu-header">
+                <div class="menu-text">Меню</div>
+                <div class="menu-button" onclick="closeMobileMenu()"></div>
+            </div>
+            <div class="mobile-menu-container">
+                <a class="mobile-menu-button" href="./Pages/forPrivates.html">Частным клиентам</a>
+                <a class="mobile-menu-button" href="./Pages/forBusiness.html">Бизнесу</a>
+                <a class="mobile-menu-button" href="">О компании</a>
+            </div>
+        </div>
+        <div class="contacts-wrapper" id="contacts-wrapper">
+            <div class="contacts">
+                <div class="contacts-text">8-423-997-00-00</div>
+                <div class="contacts-text">contact@primlogistic.ru</div>
+                <div class="contacts-upper-text">Контакты для оформления доставки</div> 
+                <button class="contacts-button" onclick="closeContacts()"></button>
+            </div>
+        </div>
+        
+        <script src="./Scripts/contacts.js"></script>
+        <script src="./Scripts/mobileMenu.js"></script>
     </body>
 </html>

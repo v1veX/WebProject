@@ -61,4 +61,42 @@
         font-size: 4vh;
         color: #fff;
     }
+
+    footer {
+        padding: 3vh 0;
+    }
+
+    .footer-top {
+        justify-content: space-between;
+        row-gap: 3.5vh;
+    }
+
+    .footer-column {
+        width: 47%;
+        row-gap: 2vh;
+    }
+
+    .footer-line {
+        font-size: 2.2vh;
+        border: none;
+    }
+
+    .footer-bottom {
+        margin: 3.5vh auto 0 auto;
+        row-gap: 2vh;
+    }
+    
+    .social-media-container {
+        width: 100%;
+        column-gap: 5vw;
+    }
+
+    .social-media-icon {
+        height: 4vh;
+        width: 4vh;
+    }
+
+    .copyright {
+        font-size: 1.6vh;
+    }
 }

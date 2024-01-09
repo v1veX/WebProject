@@ -148,7 +148,8 @@ footer {
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
-    gap: 3em;
+    row-gap: 3em;
+    column-gap: 3em;
 }
 
 .footer-column {

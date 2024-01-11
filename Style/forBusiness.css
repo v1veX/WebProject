@@ -125,11 +125,33 @@ h1 {
 
 .they-trust-us-card {
     width: 19%;
-    min-height: 100px;
+    min-height: 150px;
     padding: 1em;
     background-color: #141414;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 100%;
     border-radius: 10px;
-    color: #fff;
+}
+
+.remi {
+    background-image: url('../Images/RemiLogo.svg');
+}
+
+.mir-upak {
+    background-image: url('../Images/MirUpakLogo.svg');
+}
+
+.hyper-auto {
+    background-image: url('../Images/HyperAutoLogo.svg');
+}
+
+.green-agro {
+    background-image: url('../Images/GreenAgroLogo.svg');
+}
+
+.dobroflot {
+    background-image: url('../Images/DobroflotLogo.svg');
 }
 
 .any-questions {

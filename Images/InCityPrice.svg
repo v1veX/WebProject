@@ -9,7 +9,7 @@ viewBox="0 0 600 600"
   <style type="text/css">
    <![CDATA[
     .str0 {stroke:#E62EE6;stroke-width:4;stroke-miterlimit:22.9256}
-    .str1 {stroke:#E62EE6;stroke-width:2;stroke-miterlimit:22.9256}
+    .str1 {stroke:#00C4FF;stroke-width:2;stroke-miterlimit:22.9256}
     .fil2 {fill:none}
     .fil1 {fill:#141414}
     .fil0 {fill:#141414}
@@ -18,19 +18,17 @@ viewBox="0 0 600 600"
  </defs>
  <g id="Слой_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_2269283397856">
-   <rect class="fil0 str0" x="233.71" y="288" width="218.07" height="261"/>
-   <rect class="fil1 str0" x="113.58" y="394.61" width="187.48" height="154.39"/>
-   <rect class="fil0 str0" x="391.78" y="346.82" width="148.22" height="202.18"/>
-   <rect class="fil2 str1" x="132.7" y="421.26" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="170.53" y="421.26" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="211.52" y="421.26" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="250.4" y="421.26" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="256.95" y="317.41" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="301.06" y="316.35" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="345.17" y="317.41" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="413.18" y="368.87" width="27.57" height="38.6"/>
-   <rect class="fil2 str1" x="486.7" y="367.04" width="27.57" height="38.6"/>
-  </g>
+  <rect class="fil0 str0" x="233.71" y="288" width="218.07" height="261"/>
+  <rect class="fil1 str0" x="113.58" y="394.61" width="187.48" height="154.39"/>
+  <rect class="fil0 str0" x="391.78" y="346.82" width="148.22" height="202.18"/>
+  <rect class="fil2 str1" x="132.7" y="421.26" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="170.53" y="421.26" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="211.52" y="421.26" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="250.4" y="421.26" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="256.95" y="317.41" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="301.06" y="316.35" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="345.17" y="317.41" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="413.18" y="368.87" width="27.57" height="38.6"/>
+  <rect class="fil2 str1" x="486.7" y="367.04" width="27.57" height="38.6"/>
  </g>
 </svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="600px" height="600px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 600 600"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#00C4FF;stroke-width:4;stroke-miterlimit:22.9256}
+    .str1 {stroke:#E62EE6;stroke-width:4;stroke-miterlimit:22.9256}
+    .str0 {stroke:#00C4FF;stroke-width:6;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0 str0" cx="368.35" cy="381.29" r="138"/>
+  <line class="fil0 str1" x1="368.35" y1="264.25" x2="368.35" y2= "298.25" />
+  <line class="fil0 str1" x1="368.35" y1="467.25" x2="368.35" y2= "501.25" />
+  <line class="fil0 str1" x1="246.71" y1="381.29" x2="280.71" y2= "381.29" />
+  <line class="fil0 str1" x1="454.7" y1="381.29" x2="488.7" y2= "381.29" />
+  <line class="fil0 str1" x1="311.63" y1="283.07" x2="328.63" y2= "312.51" />
+  <line class="fil0 str1" x1="410.46" y1="457.24" x2="427.46" y2= "486.68" />
+  <line class="fil0 str1" x1="266.35" y1="325.29" x2="295.79" y2= "342.29" />
+  <line class="fil0 str1" x1="442.81" y1="421.48" x2="472.26" y2= "438.49" />
+  <line class="fil0 str1" x1="424.35" y1="277.84" x2="407.35" y2= "307.29" />
+  <line class="fil0 str1" x1="326.63" y1="454.83" x2="309.63" y2= "484.27" />
+  <line class="fil0 str1" x1="293.51" y1="425.92" x2="264.06" y2= "442.92" />
+  <line class="fil0 str1" x1="470.79" y1="322.29" x2="441.35" y2= "339.29" />
+  <polyline class="fil0 str2" points="368.35,314.55 368.35,381.29 404.33,415.27 "/>
+ </g>
+</svg>

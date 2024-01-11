@@ -65,8 +65,27 @@ h1 {
     padding: 1em;
     background-color: #141414;
     border-radius: 10px;
+    background-size: auto 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
     font-size: 1.5em;
     color: #fff;
+}
+
+.card-1 {
+    background-image: url('../Images/DeliverInTime.svg');
+}
+
+.card-2 {
+    background-image: url('../Images/PlaceTracking.svg');
+}
+
+.card-3 {
+    background-image: url('../Images/OurStocks.svg');
+}
+
+.card-4 {
+    background-image: url('../Images/TakeCare.svg');
 }
 
 .contracts-wrapper {

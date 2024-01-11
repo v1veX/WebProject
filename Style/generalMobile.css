@@ -18,8 +18,17 @@
     .menu-button {
         height: 4vh;
         width: 4vh;
-        background-color: aliceblue;
         display: block;
+    }
+
+    .open-button {
+        background-image: url('../Images/Stripes.svg');
+        background-size: 100% 100%;
+    }
+
+    .close-button {
+        background-image: url('../Images/Cross.svg');
+        background-size: 100% 100%;
     }
 
     .mobile-menu {

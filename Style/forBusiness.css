@@ -92,14 +92,14 @@ h1 {
     width: 100%;
     padding: 2em 0;
     margin: 5em 0;
-    background-color: darkkhaki;
+    background: radial-gradient(22.76% 146.52% at 69.73% -12.86%,#c241ff 6.65%,#6b57ff 100%);
 }
 
 .contracts {
     width: 90%;
     margin: 0 auto;
     font-size: 1.3em;
-    color: #252525;
+    color: #fff;
     text-align: center;
 }
 

@@ -75,20 +75,20 @@ h1 {
 .contracts-info {
     width: 100%;
     padding: 3em 0;
-    background-color: darkkhaki;
+    background: radial-gradient(22.76% 146.52% at 69.73% -12.86%,#c241ff 6.65%,#6b57ff 100%);
 }
 
 .contracts-info-text {
     width: 90%;
     margin: 0 auto;
     font-size: 1.5em;
-    color: #252525;
+    color: #fff;
 }
 
 .contracts-info-email {
     width: 90%;
     margin: .8em auto 0 auto;
-    color: #252525;
+    color: #fff;
     font-size: 2.7em;
     text-decoration: underline;
 }

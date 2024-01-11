@@ -55,8 +55,27 @@ h1 {
     padding: 1.5em;
     background-color: #141414;
     border-radius: 10px;
+    background-size: auto 100%;
+    background-position: bottom right;
+    background-repeat: no-repeat;
     font-size: 1.5em;
     color: #fff;
+}
+
+.card-1 {
+    background-image: url('../Images/Box.svg');
+}
+
+.card-2 {
+    background-image: url('../Images/CarDelivery.svg');
+}
+
+.card-3 {
+    background-image: url('../Images/HouseMoving.svg');
+}
+
+.card-4 {
+    background-image: url('../Images/BuildingMats.svg');
 }
 
 .contracts-wrapper {

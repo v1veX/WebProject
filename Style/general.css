@@ -35,6 +35,12 @@ header {
     font-size: 1.7em;
 }
 
+.logo-place-alt {
+    font-family: 'Russian Road Sign';
+    font-size: 1.7em;
+    display: none;
+}
+
 nav {
     font-size: 1.1em;
     display: flex;

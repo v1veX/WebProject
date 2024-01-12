@@ -144,6 +144,7 @@ h1 {
 
 .hyper-auto {
     background-image: url('../Images/HyperAutoLogo.svg');
+    background-size: 100% auto;
 }
 
 .green-agro {

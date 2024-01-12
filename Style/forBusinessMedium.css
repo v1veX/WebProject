@@ -7,4 +7,13 @@
     .why-us-card {
         width: 49%;
     }
+
+    .they-trust-us-card {
+        width: 24%;
+        background-size: auto 90%;
+    }
+
+    .hyper-auto {
+        display: none;
+    }
 }

@@ -1,0 +1,10 @@
+@media screen and (max-width: 1200px) and (orientation: landscape) {
+    .about-cards {
+        flex-wrap: wrap;
+        row-gap: 1.6em;
+    }
+
+    .about-card {
+        width: 48%;
+    }
+}

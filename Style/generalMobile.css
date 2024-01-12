@@ -71,6 +71,29 @@
         color: #fff;
     }
 
+    .mobile-contacts {
+        border-top: 2px solid #fff;
+        color: #fff;
+    }
+
+    .mobile-contact-headline {
+        width: 90%;
+        margin: 0 auto;
+        padding: 2vh 0;
+        font-size: 2vh;
+    }
+
+    .mobile-contact {
+        width: 90%;
+        margin: 0 auto;
+        padding: 2vh 0;
+        font-size: 3vh;
+    }
+
+    .email {
+        text-decoration: underline;
+    }
+
     footer {
         padding: 3vh 0;
     }
